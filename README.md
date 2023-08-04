@@ -14,7 +14,7 @@ Created by [Prateek Narang](https://www.udemy.com/course/c-plus-plus-programming
 * Passion to learn coding
 
 
-## Description
+## Course Description
 
 Are you an absolute beginner looking forward to kickstart your journey in the programming domain. Coding can be hard skill learn to learn for many but no more. Welcome to C++ Programming Essentials, the most fundamental course that every aspiring programmer should take to kickstart their journey in the world of programming. The course teaches you the fundamental building blocks of programming and builds a logical thinking mindset using C++ as our programming language. Many concepts taught in the course are also relevant to other languages like Java, Python, JavaScript etc with few changes in the coding syntax.
 
@@ -25,10 +25,6 @@ The course is your first step towards problem solving, and will help you to get 
 
 This course is taught by Prateek Narang, who is not just a software engineer but a teacher by heart and many bestseller courses on Udemy in Algorithms category! He has worked with companies like Google, and has co-founded two startups including Coding Minutes, which is now a part of Scaler Academy.
 Who this course is for:
-
-Beginners looking forward to start learning programming
-Developers who want to learn C++ Syntax
-Students who want to learn data structures & algorithms in C++ later
 
 ## Contents
 
